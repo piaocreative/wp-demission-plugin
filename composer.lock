@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "73bc732a26fb239a0fd6a6508147cdb0",
+    "packages": [
+        {
+            "name": "khartnett/address-normalization",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/khartnett/address-normalization.git",
+                "reference": "363572bb810c0e931e3e5f89cadc6ae81d8e1f89"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/khartnett/address-normalization/zipball/363572bb810c0e931e3e5f89cadc6ae81d8e1f89",
+                "reference": "363572bb810c0e931e3e5f89cadc6ae81d8e1f89",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Khartnett\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kieran Hartnett",
+                    "email": "khartnet@gmail.com"
+                }
+            ],
+            "description": "Converts mailing addresses into a normalized format",
+            "keywords": [
+                "address",
+                "mailing",
+                "normalization"
+            ],
+            "time": "2017-12-14T21:59:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}

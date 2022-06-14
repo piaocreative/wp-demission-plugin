@@ -1,0 +1,45 @@
+[
+    {
+        "name": "khartnett/address-normalization",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/khartnett/address-normalization.git",
+            "reference": "363572bb810c0e931e3e5f89cadc6ae81d8e1f89"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/khartnett/address-normalization/zipball/363572bb810c0e931e3e5f89cadc6ae81d8e1f89",
+            "reference": "363572bb810c0e931e3e5f89cadc6ae81d8e1f89",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2017-12-14T21:59:29+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Khartnett\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Kieran Hartnett",
+                "email": "khartnet@gmail.com"
+            }
+        ],
+        "description": "Converts mailing addresses into a normalized format",
+        "keywords": [
+            "address",
+            "mailing",
+            "normalization"
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "khartnett/address-normalization": "^1.0"
+    }
+}
